@@ -1,0 +1,43 @@
+From: "Alice Johnson" <alice@example.com>
+Reply-To: "Fake Support" <support@maliciousdomain.shop>
+To: victim@example.com
+Subject: Immediate Action Required: Verify Your Account
+Date: Mon, 1 Dec 2025 15:30:00 +0000
+Message-ID: <1234567890@example.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="BOUNDARY123"
+Received: from mx1.fakeisp.ru (mx1.fakeisp.ru [91.123.45.67])
+    by victimmail.com with ESMTP id abc123;
+    Mon, 1 Dec 2025 15:25:00 +0000
+Received: from compromisedhost.cn (compromisedhost.cn [123.45.67.89])
+    by mx1.fakeisp.ru with ESMTP id def456;
+    Mon, 1 Dec 2025 15:20:00 +0000
+Received: from unknown (unknown [200.100.50.25])
+    by compromisedhost.cn with ESMTP id ghi789;
+    Mon, 1 Dec 2025 15:15:00 +0000
+
+--BOUNDARY123
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dear User,
+
+Your account has been flagged for suspicious activity. You must verify your account immediately
+to prevent permanent suspension. Please click the link below and follow the instructions:
+
+https://maliciousdomain.shop/verify-account
+
+Failure to act now may result in loss of access and funds.
+
+Thank you,
+Fake Support Team
+
+--BOUNDARY123
+Content-Type: application/javascript; name="update.js"
+Content-Disposition: attachment; filename="update.js"
+Content-Transfer-Encoding: base64
+
+Ly8gU2FtcGxlIHJpc2t5IGF0dGFjaG1lbnQgamF2YXNjcmlwdCBmaWxlCgphbGVydCgiWW91ciBh
+Y2NvdW50IGhhcyBiZWVuIHZlcmlmaWVkLiIp
+
+--BOUNDARY123--

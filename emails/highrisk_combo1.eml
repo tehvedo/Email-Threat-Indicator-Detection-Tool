@@ -1,0 +1,25 @@
+From: "PayPal Support" <no-reply@paypalsecure.com>
+Reply-To: account-verification@russia-secure.ru
+Subject: Urgent: Your Account Will Be Closed
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="XYZ"
+
+--XYZ
+Content-Type: text/plain; charset="utf-8"
+
+Dear customer,
+
+Your account will be closed immediately unless you verify your password now.
+Please click the link below to restore access:
+
+http://paypal-security-alert.shop/verify
+
+Failure to act will result in account termination.
+
+--XYZ
+Content-Type: application/javascript; name="update.js"
+Content-Disposition: attachment; filename="update.js"
+
+console.log("malicious payload");
+
+--XYZ--

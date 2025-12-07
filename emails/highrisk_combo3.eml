@@ -1,0 +1,24 @@
+From: "Microsoft Security" <alerts@microsoft-support.com>
+Reply-To: ms-support@securemail.cn
+Subject: Critical Security Update Required
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="12345"
+
+--12345
+Content-Type: text/plain; charset="utf-8"
+
+Your system requires an urgent security update.
+Failure to comply will disable your account.
+
+Download update:
+http://microsoft-update-alerts.info/update
+
+Wire transfer instructions attached.
+
+--12345
+Content-Type: application/vnd.ms-excel.sheet.binary.macroEnabled.12; name="update.xlsb"
+Content-Disposition: attachment; filename="update.xlsb"
+
+[BINARY DATA]
+
+--12345--

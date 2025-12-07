@@ -1,0 +1,16 @@
+From: Accounts Dept <billing@invoices-payments.net>
+To: user@example.com
+Subject: Invoice Attached - Please Review Immediately
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Hello,
+
+Your payment is past due. Please review the attached invoice and pay immediat=
+ely.
+
+Failure to do so may result in account termination.
+
+Regards,
+Billing

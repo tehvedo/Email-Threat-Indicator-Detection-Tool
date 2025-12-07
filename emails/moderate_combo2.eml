@@ -1,0 +1,26 @@
+From: "Amazon Billing" <support@amazon.com>
+Reply-To: refund-help@billing-support.shop
+Subject: Action Required: Payment Correction Needed
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="ABC"
+
+--ABC
+Content-Type: text/plain; charset="utf-8"
+
+We were unable to process your recent payment.
+Please confirm your information immediately.
+
+Suspicious URL:
+http://amazon-refund.shop/fix
+
+--ABC
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<body>
+<p>Your recent payment failed. <b>Verify your account</b> immediately.</p>
+<a href="http://amazon-refund.shop/fix">Resolve Now</a>
+</body>
+</html>
+
+--ABC--
