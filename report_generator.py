@@ -1,5 +1,5 @@
 """
-geolocator.py
+report_generator.py
 
 This generates the report on the eml file
 """
